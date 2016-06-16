@@ -1,0 +1,3 @@
+-cp arkhade
+-main arkhade.Arkhade
+-js dist/arkhade.js
